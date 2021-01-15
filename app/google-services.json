@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "93892869007",
+    "firebase_url": "https://loginsignupwithemail.firebaseio.com",
+    "project_id": "loginsignupwithemail",
+    "storage_bucket": "loginsignupwithemail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93892869007:android:dc239a39f9c3ea52cfa9fa",
+        "android_client_info": {
+          "package_name": "com.example.emailpasswordauthanticationfromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93892869007-838nj3nhgtm7du5dvnm082sc22fr867p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXZUtM8XvdaTUHtgyVr5igfMrKQ8YQPfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93892869007-838nj3nhgtm7du5dvnm082sc22fr867p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93892869007:android:b717dcc4bcf2a88ecfa9fa",
+        "android_client_info": {
+          "package_name": "com.example.task2loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93892869007-838nj3nhgtm7du5dvnm082sc22fr867p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXZUtM8XvdaTUHtgyVr5igfMrKQ8YQPfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93892869007-838nj3nhgtm7du5dvnm082sc22fr867p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
